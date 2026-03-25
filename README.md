@@ -15,4 +15,7 @@ Analyzing the relationship between Music and Mental Health.
 [Kaggle - Music & Mental Health Survey Results] (https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results)
 
 ## Visualizations
+<img width="1148" height="708" alt="image" src="https://github.com/user-attachments/assets/b5237e97-c816-4866-a743-489603e98a1e" />
+<img width="858" height="672" alt="image" src="https://github.com/user-attachments/assets/6d0fe3f1-3779-4600-93d9-337ac3f8384c" />
+<img width="890" height="674" alt="image" src="https://github.com/user-attachments/assets/7c7fc8f0-3a5d-4a0a-b0f3-c0ff82115d39" />
 <img width="883" height="859" alt="image" src="https://github.com/user-attachments/assets/5b649506-2e8b-49c3-8858-9d4c365bdc22" />
